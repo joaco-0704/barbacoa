@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@1,700&display=swap');
+body{
+    background: #d242b8;
+    font-family: 'Marvel', sans-serif;
+}
+div{
+    width: 80%;
+    background: #c10f0f;
+    margin:  10px auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+img{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
